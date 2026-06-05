@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "Sandstone Outbound Co"
+theme = "custom"
+
+[params]
+  description = "Outbound sales systems: cadence design, multi-channel sequences, and SDR team management."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
