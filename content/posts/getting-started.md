@@ -1,4 +1,9 @@
 ---
+image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop&auto=format&q=80"
+cover:
+  image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=450&fit=crop&auto=format&q=80"
+  alt: "cover"
+  relative: false
 title: "Welcome to Sandstone Outbound Co"
 date: 2026-06-01
 description: "Outbound sales systems: cadence design, multi-channel sequences, and SDR team management."
